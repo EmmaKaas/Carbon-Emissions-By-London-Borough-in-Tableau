@@ -9,3 +9,5 @@ In this project I used a sample dataset from Tableau's sample dataset called 'CO
 My dashboard is also published on my Tableau public account if you would like to take a closer look!
 
 ![image](https://github.com/EmmaKaas/Carbon-Emissions-By-London-Borough-in-Tableau/assets/168829759/8428f8e6-aaf5-4d91-ae78-f0abf24581e8)
+
+https://public.tableau.com/views/CarbonEmissionsbyLondonBorough_17171643256180/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
